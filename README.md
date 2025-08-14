@@ -53,7 +53,9 @@ This project is a simple yet effective neural network model to predict house pri
 `pip install tensorflow matplotlib pandas numpy`
 
 ## How to Run
+```bash
 `python house_price_prediction.py`
+```
 
 After running, you’ll see:
 - MAE & Loss over epochs
