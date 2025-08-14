@@ -50,11 +50,13 @@ This project is a simple yet effective neural network model to predict house pri
 - Matplotlib
 - Pandas / Numpy
 - Install required packages:
-`pip install tensorflow matplotlib pandas numpy`
+```bash
+pip install tensorflow matplotlib pandas numpy
+```
 
 ## How to Run
 ```bash
-`python house_price_prediction.py`
+python house_price_prediction.py
 ```
 
 After running, you’ll see:
